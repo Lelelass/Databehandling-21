@@ -12,6 +12,8 @@ nbformat = "*"
 plotly-express = "*"
 plotly = "*"
 lxml = "*"
+requests = "*"
+python-dotenv = "*"
 
 [dev-packages]
 ipykernel = "*"
